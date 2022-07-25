@@ -1,0 +1,23 @@
+{
+  "name": "exercaula-4-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivBraga/exercAula-4-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivBraga/exercAula-4-express/issues"
+  },
+  "homepage": "https://github.com/ivBraga/exercAula-4-express#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
